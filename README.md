@@ -1,16 +1,44 @@
-# React + Vite
+# 🤖 Afzal AI Chatbot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personalized **AI chatbot** built with **React.js** and integrated with **OpenAI's ChatGPT API**.  
+This chatbot is designed to give smart, conversational responses and also introduces me (**Afzal**) as the creator.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshot
 
-## React Compiler
+<img width="1915" height="917" alt="Ai-afzal-itro" src="https://github.com/user-attachments/assets/a61f79d1-ed7f-4834-a0d1-de33245a2165" />
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
+- 💬 AI-powered chatbot using **ChatGPT API**  
+- 👨‍💻 Personalized introduction (the bot knows about **Afzal**)  
+- ⚡ Real-time, fast responses  
+- 🎨 Clean and modern UI built with React  
+- 📱 Responsive design  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🎯 Learning Purpose
+I created this project to:
+- Practice **React.js** and API integration  
+- Learn how to connect a frontend app with **OpenAI API**  
+- Build a **portfolio-ready AI project**  
+
+---
+
+## 🚀 Future Improvements
+- 🌙 Add Dark/Light mode  
+- 📂 Store chat history  
+- 🎤 Add voice input and text-to-speech replies  
+- 🛡️ Improve error handling for API calls  
+
+---
+
+## 👨‍💻 Author
+- **Afzal** (Frontend Developer)  
+  
+
+---
+⭐ This project is made for **learning & portfolio purposes**.
